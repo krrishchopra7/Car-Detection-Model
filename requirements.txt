@@ -1,0 +1,12 @@
+# YOLOv8 package
+ultralytics==8.0.196
+
+# Data processing
+numpy
+pandas
+PyYAML
+tqdm
+
+# Visualization
+opencv-python
+
