@@ -1,8 +1,6 @@
-# Car Detection using YOLOv8
+# Car Detection using YOLOv5 → YOLOv8 
 
 **Authors:** Sanket Kumar Gupta, Krrish Chopra  
-**Supervisor:** Mr. Amitava Das  
-**Date:** 28 July 2025  
 
 ---
 
@@ -51,6 +49,26 @@ Applications include **intelligent traffic monitoring** and **autonomous vehicle
 | mAP@0.5:0.95 | 0.6213 | 0.7034 |
 
 ---
+
+## 📝 Conclusion
+This project demonstrates how upgrading from **YOLOv5** to **YOLOv8** can yield noticeable improvements in object detection performance.  
+YOLOv8 achieved:
+- Higher **precision** and **recall**, meaning fewer missed detections and false alarms.
+- A better **F1 score**, showing a stronger balance between accuracy and completeness.
+- Increased **mAP** values, confirming improved localization and classification.
+
+These results suggest YOLOv8 is more suitable for real-world applications such as **traffic monitoring** and **autonomous vehicles**, especially when accuracy and robustness are critical.
+
+---
+
+## 📜 Copyright & Usage
+This project is **released into the public domain**.  
+You are free to **use, modify, share, and distribute** the code and resources without any restrictions or need for permission.  
+Attribution is appreciated but not required.
+
+---
+
+
 
 
 
